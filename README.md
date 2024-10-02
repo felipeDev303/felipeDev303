@@ -1,9 +1,11 @@
-### Hello World 👋
+# Hi, there 👋 I'm Felipe Morales
 
-Curioso y eterno aprendiz. 
-Me gusta programar, 
-me gusta crear, 
-me gustan los sistemas, me gusta razonar sobre problemas complejos 
-y sus soluciones 
+## Programming student, trying to be a competitive programmer
+
+Curious and eternal learner.
+I like programming,
+I like creating,
+I like systems, I like reasoning about complex problems
+and their solutions
 
 🦓🐙🧉🏉
