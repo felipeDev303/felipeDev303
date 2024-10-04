@@ -1,4 +1,6 @@
-# Hi, there 👋 I'm Felipe Morales
+# Hi, there 👋 I'm Felipe Morales 
+
+I'm from Chile
 
 ## Programming student, trying to be a competitive programmer
 
