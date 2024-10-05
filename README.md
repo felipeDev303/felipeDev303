@@ -10,4 +10,3 @@ I like creating,
 I like systems, I like reasoning about complex problems
 and their solutions
 
-🦓🐙🧉🏉
