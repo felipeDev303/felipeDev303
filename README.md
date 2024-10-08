@@ -10,4 +10,4 @@ I like creating,
 I like systems, I like reasoning about complex problems
 and their solutions
 
-HTML, CSS, JavaScript, Java, Python
+## HTML, CSS, JavaScript, Java, Python
