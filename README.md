@@ -3,6 +3,8 @@
 
 Programming student :)
 
-
-
-
+Puredata
+Java
+Python 
+JavaScript
+SQL
