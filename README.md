@@ -2,9 +2,3 @@
 <h3 align="center">Curious and eternal learner. I like programming, I like creating, I like systems, I like reasoning about complex problems and their solutions.</h3>
 
 Programming student :)
-
-Puredata
-Java
-Python 
-JavaScript
-SQL
