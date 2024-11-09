@@ -5,6 +5,7 @@
 
 HTML
 CSS
+JavaScript
 Bootstrap
 Taildwind
 Puredata
