@@ -10,3 +10,5 @@ Bootstrap
 Taildwind
 Puredata
 Java
+Python
+SQL
