@@ -12,4 +12,3 @@ Puredata
 Java
 Python
 SQL
-:)
