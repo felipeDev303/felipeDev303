@@ -3,4 +3,4 @@
 
 <p align="center">Programming student :)</p>
 
-HTML | CSS | JavaScript | Bootstrap | Taildwind | Puredata | Java | Python | SQL | Linux | 
+HTML | CSS | JavaScript | Bootstrap | Taildwind | Puredata | Java | Python | SQL | Linux | Arduino
