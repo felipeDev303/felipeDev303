@@ -4,6 +4,6 @@
 
 <p align="center">Programming student</p>
 
-<p align="center">HTML | CSS | JavaScript | Bootstrap | Taildwind | Puredata | Java | Python | SQL | Linux</p>
+<p align="center">HTML | CSS | JavaScript | Bootstrap | Taildwind | Astro | Puredata | Java | Python | SQL | Linux</p>
 
 
