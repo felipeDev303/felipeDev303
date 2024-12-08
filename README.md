@@ -33,8 +33,8 @@
 ### 📈 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeDev303)](https://github.com/felipeDev303/github-readme-stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipe-morales&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-morales&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=felipeDev303&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeDev303&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 ---
