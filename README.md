@@ -32,8 +32,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipeDev303&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeDev303&layout=compact&theme=gruvbox" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=felipeDev303&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeDev303&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
