@@ -40,10 +40,10 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/felipe-morales" target="_blank">
+  <a href="https://linkedin.com/in/felipe-morales](https://www.linkedin.com/in/felipe-morales-roa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:felipemorales@example.com">
+  <a href="mailto:felipemoralesroa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
