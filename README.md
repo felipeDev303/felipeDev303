@@ -50,7 +50,7 @@
 
 ---
 
-<p align="center">Made with ❤️ and ☕ in Temuco, Chile</p>
+<p align="center">🧉🏉🎹</p>
 
 
 
