@@ -5,7 +5,7 @@
 
 ---
 
-### 🧑‍💻 Abo
+### 🧑‍💻 About me
 - 🎓 **Programming Student** passionate about technology and innovation.
 - 🌱 Constantly learning new skills to improve and expand my knowledge.
 - 💡 Interested in building systems and tackling challenging problems with creative solutions.
