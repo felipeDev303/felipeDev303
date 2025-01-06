@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Morales 👨🏻‍💻</h1> 
 <h2 align="center">🌎 Temuco, Chile</h2>
----
 
 ### 🗿 Acerca de mi
 - 🎓 **Estudiante de Programación** Curioso y eterno aprendiz.
