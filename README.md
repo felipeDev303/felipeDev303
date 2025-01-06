@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Morales 👨🏻‍💻</h1> 
 <h2 align="center">🌎 Temuco, Chile</h2>
-<p align="center">Curioso y eterno aprendiz. Me gusta programar, me gusta crear, me gustan los sistemas y me gusta razonar sobre problemas complejos y sus soluciones🚀</p>
-
 ---
 
-### 🗿 About me
-- 🎓 **Estudiante de Programación** Apasionado por la tecnología y la innovación.
-- 🌱 Constantemente aprendiendo nuevas habilidades para mejorar y expandir mis conocimientos.
-- 💡 Interesado en construir sistemas y abordar problemas complejos con soluciones creativas.
+### 🗿 Acerca de mi
+- 🎓 **Estudiante de Programación** Curioso y eterno aprendiz.
+- 🌱 Curioso y eterno aprendiz.
+- 💡  Me gusta programar, me gusta crear, me gustan los sistemas y me gusta razonar sobre problemas complejos y sus soluciones.
 - 🎵 Me interesa la codificación creativa.
 
 ---
