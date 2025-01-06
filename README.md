@@ -2,7 +2,7 @@
 <h2 align="center">🌎 Temuco, Chile</h2>
 
 ### 🗿 Acerca de mi
-- 🎓 **Estudiante de Programación** Curioso y eterno aprendiz.
+- 🎓 **Estudiante de Programación**.
 - 🌱 Curioso y eterno aprendiz.
 - 💡  Me gusta programar, me gusta crear, me gustan los sistemas y me gusta razonar sobre problemas complejos y sus soluciones.
 - 🎵 Me interesa la codificación creativa.
