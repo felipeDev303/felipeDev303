@@ -44,7 +44,7 @@ El maestro programador sabe cuándo aplicar la estructura y cuándo dejar las co
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Conecta
 <p align="center">
   <a href="https://linkedin.com/in/felipe-morales](https://www.linkedin.com/in/felipe-morales-roa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
