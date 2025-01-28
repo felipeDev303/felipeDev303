@@ -5,7 +5,7 @@
 - 🎓 **Estudiante de Programación**.
 - 🌱 Curioso y eterno aprendiz.
 - 💡  Me gusta programar, me gusta crear, me gustan los sistemas y me gusta razonar sobre problemas complejos y sus soluciones.
-- 🎵 Me interesa la codificación creativa.
+- 🎵 Me interesa la codificación creativa y competitiva
 
 ---
 ###  🧑‍💻 Maestro Yuan-Ma, El Libro de la Programación
