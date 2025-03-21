@@ -8,15 +8,6 @@
 - 🎵 Me interesa la codificación creativa y competitiva
 
 ---
-###  🧑‍💻 Maestro Yuan-Ma, El Libro de la Programación
-
-"Un programador principiante escribe sus programas como una hormiga construye su colina, una pieza a la vez, sin pensar en la estructura más grande. Sus programas serán como arena suelta. Pueden permanecer en pie por un tiempo, pero al crecer demasiado se desmoronan.
-
-Al darse cuenta de este problema, el programador comenzará a pasar mucho tiempo pensando en la estructura. Sus programas estarán rígidamente estructurados, como esculturas rupestres. Son sólidos, pero cuando tienen que cambiar, hay que hacerles violencia.
-
-El maestro programador sabe cuándo aplicar la estructura y cuándo dejar las cosas en su forma simple. Sus programas son como la arcilla, sólidos pero maleables".
-
----
 
 ### 🛠️ Tech Stack.
 
