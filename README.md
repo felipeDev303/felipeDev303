@@ -1,3 +1,3 @@
-:)
+Estudiante de Programación
 
 
